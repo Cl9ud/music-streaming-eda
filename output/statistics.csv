@@ -1,0 +1,12 @@
+,user_id,age,country,streaming_platform,top_genre,minutes_streamed_per_day,number_of_songs_liked,most_played_artist,subscription_type,listening_time_(morning/afternoon/night),discover_weekly_engagement_(%),repeat_song_rate_(%)
+count,5000,5000.0,5000,5000,5000,5000.0,5000.0,5000,5000,5000,5000.0,5000.0
+unique,5000,,10,6,10,,,10,2,3,,
+top,U1000,,Australia,Amazon Music,Reggae,,,Bad Bunny,Premium,Night,,
+freq,1,,526,861,532,,,528,2526,1745,,
+mean,,36.664,,,,309.2372,253.5172,,,,50.296464,42.391059999999996
+std,,13.763843673862898,,,,172.02982238006766,146.3692798963617,,,,23.171935563872502,21.444121245310956
+min,,13.0,,,,10.0,1.0,,,,10.02,5.0
+25%,,25.0,,,,161.0,126.0,,,,30.1475,24.195
+50%,,37.0,,,,316.0,254.0,,,,50.42,41.96
+75%,,49.0,,,,457.25,382.0,,,,70.3375,60.74
+max,,60.0,,,,600.0,500.0,,,,89.99,79.99
